@@ -1,0 +1,55 @@
+C:\DoTnET\GestionStock\bin\Debug\GestionStock.exe.config
+C:\DoTnET\GestionStock\bin\Debug\GestionStock.exe
+C:\DoTnET\GestionStock\bin\Debug\GestionStock.pdb
+C:\DoTnET\GestionStock\bin\Debug\Guna.UI2.dll
+C:\DoTnET\GestionStock\bin\Debug\MetroFramework.Design.dll
+C:\DoTnET\GestionStock\bin\Debug\MetroFramework.dll
+C:\DoTnET\GestionStock\bin\Debug\MetroFramework.Fonts.dll
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.csproj.AssemblyReference.cache
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.csproj.SuggestedBindingRedirects.cache
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.Form1.resources
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.Properties.Resources.resources
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.csproj.GenerateResource.cache
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.csproj.CoreCompileInputs.cache
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.csproj.CopyComplete
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.exe
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.pdb
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.Acceuil.resources
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.ProduitForm.resources
+C:\DoTnET\GestionStock\bin\Debug\Database1.mdf
+C:\DoTnET\GestionStock\bin\Debug\Database1_log.ldf
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.CaissierForm.resources
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.categoForm.resources
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.CommandeForm.resources
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.CustomerButton.resources
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.Menu.resources
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.Client.resources
+C:\DoTnET\GestionStock\obj\Debug\GestionStock.Commande.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\bin\Debug\Database1.mdf
+C:\Users\Chaimae Moumni\Desktop\GestionStock\bin\Debug\Database1_log.ldf
+C:\Users\Chaimae Moumni\Desktop\GestionStock\bin\Debug\GestionStock.exe.config
+C:\Users\Chaimae Moumni\Desktop\GestionStock\bin\Debug\GestionStock.exe
+C:\Users\Chaimae Moumni\Desktop\GestionStock\bin\Debug\GestionStock.pdb
+C:\Users\Chaimae Moumni\Desktop\GestionStock\bin\Debug\Guna.UI2.dll
+C:\Users\Chaimae Moumni\Desktop\GestionStock\bin\Debug\MetroFramework.Design.dll
+C:\Users\Chaimae Moumni\Desktop\GestionStock\bin\Debug\MetroFramework.dll
+C:\Users\Chaimae Moumni\Desktop\GestionStock\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.csproj.AssemblyReference.cache
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.Acceuil.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.CaissierForm.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.categoForm.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.Client.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.Commande.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.CommandeForm.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.CustomerButton.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.Form1.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.Menu.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.ProduitForm.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.Properties.Resources.resources
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.csproj.GenerateResource.cache
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.csproj.CoreCompileInputs.cache
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.csproj.CopyComplete
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.exe
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.pdb
+C:\Users\Chaimae Moumni\Desktop\GestionStock\obj\Debug\GestionStock.livraison.resources
